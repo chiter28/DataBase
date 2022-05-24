@@ -1,3 +1,0 @@
-﻿  1.cpp
-C:\Dima\C++\1\1\1.cpp(26,12): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
-  1.vcxproj -> C:\Dima\C++\1\x64\Debug\1.exe
